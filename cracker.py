@@ -4,7 +4,6 @@
 import os import system as c
 Import File
 #--------logo--------------#
-logo=("
  _____            __                 
    /     |          /  |                
    $$$$$ |  ______  $$ |   __   ______  
